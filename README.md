@@ -1,6 +1,6 @@
 # 🌱 Sustainable Solar-Powered E-Paper Digital Advertising System
 
-![E-Paper Display](Images/e paper.jpg)
+![E-Paper Display](Images/e_paper.jpg)
 
 This project presents an eco-friendly digital advertising solution that replaces conventional high-power LED/LCD billboards with **solar-powered E-Paper displays**. Designed for smart city environments, it operates **fully off-grid**, offers **high sunlight visibility**, and consumes **ultra-low power** — making it a long-term sustainable alternative to traditional digital signage.
 
